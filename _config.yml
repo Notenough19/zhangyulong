@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhang Yulong"
 title_separator          : "-"
-name                     : &name "Zhangyulong"
+name                     : &name "Zhangyulong's Homepage"
 description              : &description "An undergraduate student from UCAS"
 url                      : https://notenough19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/zhangyulong" # the subpath of your site, e.g. "/blog"
