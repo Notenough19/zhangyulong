@@ -14,4 +14,4 @@ I will become a phd student this year after graduating from UCAS. I am very fort
 
 Feel free to contact me if you are interested in me or want to talk with me.
 
-[Email](zhangyulong191@mails.ucas.ac.cn) / [Github](https://github.com/Notenough19)
+[Email](mailto:zhangyulong191@mails.ucas.ac.cn) / [Github](https://github.com/Notenough19)
