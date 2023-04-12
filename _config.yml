@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Yulong (张玉龙)"
+title                    : "Yulong Zhang (张玉龙)"
 title_separator          : "-"
 name                     : &name "Zhangyulong's Homepage"
 description              : &description "An undergraduate student from UCAS"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhang Yulong"
+  name             : "Yulong Zhang"
   avatar           : "profile.png"
   bio              : "An undergraduate student from UCAS"
   location         : "Beijing, China"
