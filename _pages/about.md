@@ -23,12 +23,12 @@ Feel free to contact me if you are interested in me or want to talk with me.
 
 ## Publications
 
-Chameleon: Adaptive Memory Overcommitment for Disaggregated Virtual Machines\\
+**Chameleon: Adaptive Memory Overcommitment for Disaggregated Virtual Machines**\\
 Yilong Luo, **Yulong Zhang**, Siyuan Xu, Siyi Zhang, Yanwen Xia, Mingyu Wu, Diyu Zhou, Tao Xie, Chenxi Wang\\
 *ACM SIGOPS Annual Technical Conference (ATC), 2026*
 
 
-Blowfish: Elastic Virtual Machine Memory for Disaggregated Memory\\
+**Blowfish: Elastic Virtual Machine Memory for Disaggregated Memory**\\
 **Yulong Zhang**, Yilong Luo, Diyu Zhou, Quan Chen, Quanxi Li, Mosong Zhou, Lei Zhu, Senbo Fu, Qian Peng, Huimin Cui, Xiaobing Feng, Tao Xie, Chenxi Wang\\
 *USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2026*\\
 [Paper](https://www.usenix.org/conference/osdi26/presentation/zhang-yulong) · [Code](https://github.com/ICTPLSys/Blowfish)
